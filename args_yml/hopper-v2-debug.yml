@@ -1,0 +1,9 @@
+# hopper experiments debug
+args:
+    env_name: Hopper-v2
+    policy_iters: 10
+    model_epochs: 10
+    outer_steps: 300
+    reward_head: False
+    update_timestep: 900
+    steps: 100

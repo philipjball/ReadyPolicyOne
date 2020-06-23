@@ -1,0 +1,13 @@
+# halfcheetah ME-TRPO style
+args:
+    env_name: HalfCheetah-v2
+    outer_steps: 3000
+    policy_iters: 200
+    model_epochs: 2000
+    reward_head: False
+    update_timestep: 50000
+    steps: 100
+    max_timesteps: 100000
+    num_models: 5
+    pca: 0.0
+    lam: 0.0

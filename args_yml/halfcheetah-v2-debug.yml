@@ -1,0 +1,13 @@
+# halfcheetah experiments debug
+args:
+    env_name: HalfCheetah-v2
+    policy_iters: 10
+    model_epochs: 10
+    outer_steps: 300
+    reward_head: False
+    update_timestep: 1000
+    steps: 100
+    num_models: 2
+    max_timesteps: 600
+    pca: 0.0002
+    lam: 0.3

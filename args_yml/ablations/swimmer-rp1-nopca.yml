@@ -1,0 +1,11 @@
+args:
+    env_name: Swimmer-v2
+    outer_steps: 3000
+    policy_iters: 200
+    model_epochs: 2000
+    update_timestep: 50000
+    steps: 200
+    max_timesteps: 100000
+    num_models: 5
+    pca: -1
+    adapt: 1

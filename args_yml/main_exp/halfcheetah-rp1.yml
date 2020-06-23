@@ -1,0 +1,11 @@
+args:
+    env_name: HalfCheetah-v2
+    outer_steps: 3000
+    policy_iters: 200
+    model_epochs: 2000
+    update_timestep: 50000
+    steps: 100
+    num_models: 5
+    adapt: 1
+    pca: 0.0005
+    max_timesteps: 100000

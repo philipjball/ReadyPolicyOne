@@ -1,0 +1,12 @@
+# swimmer experiments debug
+args:
+    env_name: Swimmer-v2
+    outer_steps: 300
+    policy_iters: 10
+    model_epochs: 10
+    reward_head: False
+    update_timestep: 1000
+    steps: 200
+    num_models: 1
+    pca: -1
+    lam: 0
