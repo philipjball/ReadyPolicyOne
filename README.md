@@ -1,6 +1,8 @@
 # Ready Policy One (RP1)
 
-Code to complement ["Ready Policy One: World Building through Active Learning"](https://arxiv.org/abs/2002.02693).
+Code to complement ["Ready Policy One: World Building through Active Learning"](https://arxiv.org/abs/2002.02693). 
+
+Trains an agent inside an ensemble of dynamics models.
 
 ## General instructions
 
