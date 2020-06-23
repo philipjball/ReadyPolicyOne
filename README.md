@@ -10,6 +10,17 @@ To run the `HalfCheetah` Ready Policy One experiments for seeds 5-9, type the fo
 
 `python run_experiments.py --yaml ./args_yml/main_exp/halfcheetah-rp1.yml --seeds5to9`
 
+## Citation
+
+```
+@article{rpone2020,
+title={Ready Policy One: World Building Through Active Learning},
+author={Ball, Philip and Parker-Holder, Jack and Pacchiano, Aldo and Choromanski, Krzysztof and Roberts, Stephen},
+journal={Proceedings of the 37th International Conference on Machine Learning},
+year={2020}
+}
+```
+
 ## FAQs
 
 ### Why is model free running so slowly?
