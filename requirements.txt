@@ -14,7 +14,7 @@ mujoco-py==2.0.2.9
 numpy==1.17.4
 opencv-python==4.1.2.30
 pandas==0.25.3
-Pillow==6.2.1
+Pillow>=8.1.1
 pkg-resources==0.0.0
 pycparser==2.19
 pyglet==1.3.2
