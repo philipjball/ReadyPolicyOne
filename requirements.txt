@@ -11,7 +11,7 @@ imageio==2.6.1
 lockfile==0.12.2
 monotonic==1.5
 mujoco-py==2.0.2.9
-numpy==1.17.4
+numpy==1.22.0
 opencv-python==4.2.0.32
 pandas==0.25.3
 Pillow>=8.1.1
